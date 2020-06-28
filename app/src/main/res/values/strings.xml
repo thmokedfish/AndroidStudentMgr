@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StudentMgr</string>
+    <string name="btnAdd">跳转</string>
+    <string name="name">姓名</string>
+    <string name="number">学号</string>
+    <string name="gender">性别</string>
+    <string-array name="spinner_academy">
+        <item>计算机学院</item>
+        <item>电气学院</item>
+    </string-array>
+    <string-array name="spinner_cs_major">
+        <item>软件工程</item>
+        <item>信息安全</item>
+        <item>物联网</item>
+    </string-array>
+    <string-array name="spinner_elect_major">
+        <item>电气工程</item>
+        <item>电机工程</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
